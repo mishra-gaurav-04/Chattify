@@ -20,19 +20,10 @@ This is a simple chat system implemented using Socket.io and Node.js. The projec
 - **Bootstrap**: A popular CSS framework that provides pre-designed components and responsive layouts.
 - **Git**: A version control system for tracking changes in the project.
 
-## Getting Started
+## Getting started
+- Clone the repo https://github.com/mishra-gaurav-04/Chattify
+- Change directory to the folder
+- npm install
+- npm start
+- The application will run on localhost:3000
 
-To run the chat system locally, follow these steps:
-
-1. Clone the repository: `https://github.com/RaoofJM/nodejs-socketio-chat-application`
-2. Install the dependencies: `npm install`
-3. Start the server: `npm start`
-4. Access the chat system in your web browser: `http://localhost:3000`
-
-## Contributions
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license.
