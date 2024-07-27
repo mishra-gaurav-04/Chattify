@@ -13,17 +13,4 @@ This is a simple chat system implemented using Socket.io and Node.js. The projec
 
 ## Technologies Used
 
-- **Socket.io**: A JavaScript library for real-time, bidirectional communication between web clients and servers.
-- **Node.js**: A JavaScript runtime environment that allows running JavaScript on the server-side.
-- **Express.js**: A fast and minimalist web application framework for Node.js.
-- **HTML/CSS**: The standard markup language and styling for building the user interface.
-- **Bootstrap**: A popular CSS framework that provides pre-designed components and responsive layouts.
-- **Git**: A version control system for tracking changes in the project.
-
-## Getting started
-- Clone the repo https://github.com/mishra-gaurav-04/Chattify
-- Change directory to the folder
-- npm install
-- npm start
-- The application will run on localhost:3000
-
+- **Socket.io Node.js Express.js HTML/CSS Bootstrap**
